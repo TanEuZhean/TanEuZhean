@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tan Eu Zhean
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning Software Engineering
